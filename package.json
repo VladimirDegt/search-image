@@ -2,10 +2,10 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://github.com/VladimirDegt/goit-advancedjs-hw-04",
+  "homepage": "https://github.com/VladimirDegt/search-image",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /goit-advancedjs-hw-04/"
+    "build": "parcel build src/*.html --public-url /search-image/"
   },
   "repository": {
     "type": "git",
